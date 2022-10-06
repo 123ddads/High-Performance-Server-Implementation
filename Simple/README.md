@@ -1,2 +1,6 @@
-# High-Performance-Server-Implementation
-为了加深对网络编程的认识，自己实现一个Http高性能服务器。
+# 本目录下文件说明
+此文件夹下面是实现的一个简易版的Http服务器
+所用到的是epoll + 多线程，后面会不断去优化，同时我也会把写的过程中遇到的bug和一些注意事项进行说明，代码中注释也会尽量完善；
+main.c Server.c Server.h为源文件，可以编译运行。
+运行环境：Ubuntu 18.04版本，gcc版本：7.5.0
+用Visual Studio 2017以上版本以及Vs code连接服务器可以，也可以直接用gcc编译也行。

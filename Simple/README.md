@@ -1,3 +1,2 @@
-# 简介
-本文件夹下面是服务器简单版实现
-epoll + 多线程实现的简单版Http服务器
+# High-Performance-Server-Implementation
+为了加深对网络编程的认识，自己实现一个Http高性能服务器。
